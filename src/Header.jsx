@@ -16,5 +16,10 @@
         <h4>bottom line</h4>
     )
  }
+ export function Left(){
+    return(
+        <h4>left line is showing</h4>
+    )
+ }
  export default Header;
  

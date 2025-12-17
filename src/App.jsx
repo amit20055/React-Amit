@@ -1,4 +1,4 @@
-import Header,{Top,Bottom} from "./Header";
+import Header,{Top,Bottom, Left} from "./Header";
 
 function App(){
   return(
@@ -9,6 +9,7 @@ function App(){
          <Header/>
          <Top/>
          <Bottom/>
+         <Left/>
         
          
     </div>
