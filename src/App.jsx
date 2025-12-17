@@ -1,30 +1,14 @@
-import Header,{Top,Bottom, Left} from "./Header";
+import Basic from "./Jsx_with_curly_braces";
 
-function App(){
-  return(
+
+function App() {
+  return (
     <div>
-         <h1>First Component</h1>
-         <Color/>
-         <Fruit/>
-         <Header/>
-         <Top/>
-         <Bottom/>
-         <Left/>
-        
-         
+    <Basic/>
+
     </div>
     
   )
 }
 
-function Fruit(){
-  return(
-    <h1>Apple</h1>
-  )
-}
-function Color(){
-  return(
-    <h1>Red color</h1>
-  )
-}
 export default App;
