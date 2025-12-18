@@ -2,6 +2,9 @@ function Todo() {
     function callFun() {
         alert("Function called");
       }
+      const Fruit=(name)=>{
+        alert(name)
+      }
     
     
     return (
@@ -13,6 +16,7 @@ function Todo() {
                 <li>Rehearse a movie scene</li>
                 <li>Improve the spectrum technology</li>
             </ul>
+            <button onClick={()=>Fruit("Apple")}>Apple</button>
             <button onClick={callFun}>Click Me</button>
 
         </div>
