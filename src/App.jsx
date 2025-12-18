@@ -1,9 +1,20 @@
-import App from "./props_in_react";
+import Aprops from "./Advance_props";
 
-function App1() {
+function App() {
   return (
-    <App />
+    <div>
+      <Aprops name="Amit Prajapati"/>
+    <Aprops name="Amartya"/>
+    <Aprops>
+      <h1>Hello everyone</h1>
+      </Aprops>
+    
+
+
+    </div>
+    
+  
   )
 }
 
-export default App1;
+export default App;
