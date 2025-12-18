@@ -1,19 +1,9 @@
-// import Basic from "./Jsx_with_curly_braces";
+import App from "./props_in_react";
 
-// import Todo from "./ToDo";
-import State from "./State_in_react";
-
-
-function App() {
+function App1() {
   return (
-    <div>
-    {/* <Basic/> */}
-    <State/>
-  
-  
-    </div>
-    
+    <App />
   )
 }
 
-export default App;
+export default App1;
