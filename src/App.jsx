@@ -1,11 +1,10 @@
 import Aprops from "./Advance_props";
-import Controll from "./controll_component";
-import Get from "./get_input_react";
+import CheckBoxes from "./checkBoxes";
 
 function App() {
   return (
     <div>
-      <Controll/>
+      <CheckBoxes/>
     </div>
     
   
