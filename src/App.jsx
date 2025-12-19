@@ -1,16 +1,11 @@
 import Aprops from "./Advance_props";
+import Controll from "./controll_component";
+import Get from "./get_input_react";
 
 function App() {
   return (
     <div>
-      <Aprops name="Amit Prajapati"/>
-    <Aprops name="Amartya"/>
-    <Aprops>
-      <h1>Hello everyone</h1>
-      </Aprops>
-    
-
-
+      <Controll/>
     </div>
     
   
