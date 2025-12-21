@@ -3,7 +3,7 @@ import { useState } from "react";
 function CheckBoxes(){
     const[skill,setskill]=useState([]);
     const handleSkill=(event)=>{
-        console.log(event.target.value,event.target.checked);
+        // console.log(event.target.value,event.target.checked);
         if(event.target.checked){
             setskill([...skill,event.target.value])
         }else{

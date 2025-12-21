@@ -1,10 +1,9 @@
-import Aprops from "./Advance_props";
-import CheckBoxes from "./checkBoxes";
+import ReuseComponent from "./reuseComponent_in loop";
 
 function App() {
   return (
     <div>
-      <CheckBoxes/>
+      <ReuseComponent/>
     </div>
     
   
