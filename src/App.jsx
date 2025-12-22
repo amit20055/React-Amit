@@ -1,9 +1,9 @@
-import UserClock from "./user_clock";
+import Hook from "./hooks";
 
 function App() {
   return (
     <div>
-      <UserClock/>
+      <Hook/>
     </div>
     
   
