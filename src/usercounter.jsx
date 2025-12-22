@@ -1,0 +1,16 @@
+import { useState } from "react";
+import Counter from "./counter1";
+
+function UserCounter(){
+    const[count,setCount]=useState(0);
+    const[data, setdata]=useState(0);
+    return(
+        <div>
+            <Counter count={count} data={data}/>
+            <button onClick={()=>setCount(count+1)}>Counter</button>
+            <button onClick={()=>setdata(data+1)}>Data</button>
+        </div>
+
+    )
+}
+export default UserCounter;
