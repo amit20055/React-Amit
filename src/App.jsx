@@ -1,9 +1,9 @@
-import ReuseComponent from "./reuseComponent_in loop";
+import UserClock from "./user_clock";
 
 function App() {
   return (
     <div>
-      <ReuseComponent/>
+      <UserClock/>
     </div>
     
   
