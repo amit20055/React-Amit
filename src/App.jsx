@@ -1,10 +1,14 @@
-import User32 from "./user32";
+
+import StyledComponent38 from "./styled-component38";
+
 
 
 function App() {
   return (
     <div>
-      <User32/>
+      
+      <StyledComponent38/>
+    
     </div>
     
   
