@@ -1,13 +1,10 @@
-
-import StyledComponent38 from "./styled-component38";
-
-
+import Uncontrolled41 from "./uncontrolledComponenet41";
 
 function App() {
   return (
     <div>
       
-      <StyledComponent38/>
+      <Uncontrolled41/>
     
     </div>
     
