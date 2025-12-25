@@ -1,10 +1,11 @@
-import UseTransition45 from "./useTransition45";
+import DerivedState47 from "./derived_state 47";
+
 
 function App() {
   return (
     <div>
       
-      <UseTransition45/>
+      <DerivedState47/>
     
     </div>
     
