@@ -1,11 +1,11 @@
-import DerivedState47 from "./derived_state 47";
+import Updating_object49 from "./updating_object49";
 
 
 function App() {
   return (
     <div>
       
-      <DerivedState47/>
+      <Updating_object49/>
     
     </div>
     
