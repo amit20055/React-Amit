@@ -1,10 +1,10 @@
-import Uncontrolled41 from "./uncontrolledComponenet41";
+import UseTransition45 from "./useTransition45";
 
 function App() {
   return (
     <div>
       
-      <Uncontrolled41/>
+      <UseTransition45/>
     
     </div>
     
