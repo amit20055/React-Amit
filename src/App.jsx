@@ -1,11 +1,11 @@
-import Updating_object49 from "./updating_object49";
+import UseActionstate51 from "./useActionState51";
 
 
 function App() {
   return (
     <div>
       
-      <Updating_object49/>
+      <UseActionstate51/>
     
     </div>
     
